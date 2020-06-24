@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285894505184",
+    "firebase_url": "https://shopcart-34fa7.firebaseio.com",
+    "project_id": "shopcart-34fa7",
+    "storage_bucket": "shopcart-34fa7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285894505184:android:6d1b25c218b26bf85e1685",
+        "android_client_info": {
+          "package_name": "com.example.shop_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285894505184-8id22ha0o9k4btns2rrpv5jsup2akmm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAROb4EBr356Epij9lmbZb0zd13dUj2yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285894505184-8id22ha0o9k4btns2rrpv5jsup2akmm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
